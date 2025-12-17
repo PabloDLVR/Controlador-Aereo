@@ -1,0 +1,27 @@
+[Min 000] CARGA_INICIAL pistas=3
+[Min 000] CARGA_INICIAL vuelos=7
+[Min 001] SISTEMA      Simulación INICIADA
+[Min 001] EN_COLA      Vuelo IB101 (ATERRIZAJE)
+[Min 001] ASIGNACION   Vuelo IB101 - Pista R1 (ATERRIZAJE)
+[Min 002] EN_COLA      Vuelo IB202 (ATERRIZAJE)
+[Min 002] ASIGNACION   Vuelo IB202 - Pista R2 (ATERRIZAJE)
+[Min 003] EN_COLA      Vuelo UX303 (DESPEGUE)
+[Min 003] ASIGNACION   Vuelo UX303 - Pista R3 (DESPEGUE)
+[Min 004] EN_COLA      Vuelo VY404 (DESPEGUE)
+[Min 005] EN_COLA      Vuelo AF505 (ATERRIZAJE)
+[Min 005] COMPLETADO   Vuelo IB101 - Pista R1
+[Min 005] COMPLETADO   Vuelo IB202 - Pista R2
+[Min 005] COMPLETADO   Vuelo UX303 - Pista R3
+[Min 005] ASIGNACION   Vuelo AF505 - Pista R1 (ATERRIZAJE)
+[Min 005] ASIGNACION   Vuelo VY404 - Pista R2 (DESPEGUE)
+[Min 005] ESTADO       Reporte de sistema - Minuto 5
+[Min 006] EN_COLA      Vuelo BA606 (ATERRIZAJE)
+[Min 006] ASIGNACION   Vuelo BA606 - Pista R3 (ATERRIZAJE)
+[Min 007] EN_COLA      Vuelo LH707 (DESPEGUE)
+[Min 008] COMPLETADO   Vuelo VY404 - Pista R2
+[Min 008] COMPLETADO   Vuelo BA606 - Pista R3
+[Min 008] ASIGNACION   Vuelo LH707 - Pista R2 (DESPEGUE)
+[Min 009] COMPLETADO   Vuelo AF505 - Pista R1
+[Min 010] ESTADO       Reporte de sistema - Minuto 10
+[Min 011] COMPLETADO   Vuelo LH707 - Pista R2
+[Min 015] ESTADO       Reporte de sistema - Minuto 15
